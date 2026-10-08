@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">adrix0132 — Développement web, Python et PHP</title>
+  <desc id="desc">Bannière bleu nuit avec une typographie claire et un motif de code discret.</desc>
+  <rect width="1200" height="300" rx="20" fill="#101923"/>
+  <path d="M800 0v300M900 0v300M1000 0v300M1100 0v300M750 50h450M750 150h450M750 250h450" stroke="#1c2a38" stroke-width="1"/>
+  <rect x="56" y="60" width="32" height="4" rx="2" fill="#67d4c0"/>
+  <text x="102" y="67" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3" fill="#9aaebb">DÉVELOPPEMENT</text>
+  <text x="52" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-3" fill="#f0f5fa">adrix0132<tspan fill="#67d4c0">.</tspan></text>
+  <text x="56" y="207" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#a8bac9">Web · Python · PHP</text>
+  <path d="m917 105-48 45 48 45m126-90 48 45-48 45m-44-106-39 122" fill="none" stroke="#67d4c0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="56" y="265" font-family="Consolas,monospace" font-size="13" letter-spacing="2" fill="#7f94a6">OUTILS / SERVEURS / EXPÉRIMENTATIONS</text>
+</svg>
