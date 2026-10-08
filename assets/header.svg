@@ -1,19 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="adrix0132 — Développeur et créateur">
-<style>
-@keyframes float {0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
-@keyframes cursor {0%,45%,100%{opacity:1}55%,90%{opacity:.25}}
-.mark{animation:float 6s ease-in-out infinite}.cursor{animation:cursor 3s ease-in-out infinite}
-@media(prefers-reduced-motion:reduce){.mark,.cursor{animation:none}}
-</style>
-<rect width="1200" height="300" rx="20" fill="#203e40"/>
-<path d="M790 0h390q20 0 20 20v260q0 20-20 20H790z" fill="#e2cbaa"/>
-<path d="M790 0v300" stroke="#f0dfc4" stroke-width="2"/>
-<text x="58" y="65" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4" fill="#c7d6cd">DÉVELOPPEUR · CRÉATEUR</text>
-<text x="53" y="181" font-family="Segoe UI,Arial,sans-serif" font-size="94" font-weight="700" letter-spacing="-4" fill="#f8f1e5">adrix0132<tspan fill="#d99b75">.</tspan></text>
-<rect class="cursor" x="60" y="225" width="74" height="6" rx="3" fill="#d99b75"/>
-<g class="mark">
-<rect x="870" y="64" width="222" height="172" rx="12" fill="#b7644d"/>
-<path d="M870 102h222" stroke="#e5b599" stroke-width="2"/>
-<g fill="#f8e5d4"><circle cx="890" cy="84" r="4"/><circle cx="905" cy="84" r="4"/><circle cx="920" cy="84" r="4"/></g>
-<path d="m935 134-27 29 27 29m94-58 27 29-27 29m-36-67-22 76" fill="none" stroke="#fff0dd" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-label="adrix0132 — Développeur et créateur">
+<defs>
+<linearGradient id="bg" x2="1" y2=".3"><stop stop-color="#171719"/><stop offset="1" stop-color="#492326"/></linearGradient>
+<linearGradient id="name" x2="1" y2=".2"><stop stop-color="#e58e65"/><stop offset=".6" stop-color="#d97459"/><stop offset="1" stop-color="#edba78"/></linearGradient>
+</defs>
+<style>@keyframes draw{0%,100%{stroke-dashoffset:240}45%,70%{stroke-dashoffset:0}}@keyframes lift{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-8px) rotate(-3deg)}}.line{stroke-dasharray:240;animation:draw 7s ease-in-out infinite}.code{transform-origin:1010px 150px;animation:lift 7s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.line,.code{animation:none;stroke-dashoffset:0}}</style>
+<rect width="1200" height="310" rx="18" fill="url(#bg)"/>
+<path d="M838 0h128L801 310H673z" fill="#76362f" opacity=".3"/><path d="M989 0h38L862 310h-38z" fill="#b85841" opacity=".35"/>
+<text x="60" y="62" fill="#d7b6a3" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">DÉVELOPPEUR · CRÉATEUR</text>
+<text x="52" y="188" font-family="Segoe UI,Arial,sans-serif" font-size="108" font-weight="750" letter-spacing="-5" fill="url(#name)">adrix0132.</text>
+<path d="M60 239h240" stroke="#603d35" stroke-width="7" stroke-linecap="round"/>
+<path class="line" d="M60 239h240" stroke="#d88961" stroke-width="7" stroke-linecap="round"/>
+<g class="code"><rect x="900" y="71" width="220" height="166" rx="16" fill="#242125" stroke="#a45845" stroke-width="2"/><path d="m967 115-32 36 32 36m84-72 32 36-32 36m-35-85-21 96" fill="none" stroke="#d99b6e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
