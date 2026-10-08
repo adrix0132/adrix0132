@@ -1,19 +1,30 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="adrix0132 — Web, Python, PHP" />
+  <img src="./assets/header.svg" width="100%" alt="adrix0132" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html&amp;theme=dark" height="48" alt="Python · PHP · JavaScript · HTML" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,cs,react,nextjs&amp;theme=dark" width="420" alt="Python, PHP, JavaScript, HTML, CSS, C#, React et Next.js" />
 </p>
 
 <br />
 
-<p align="center">
-  <img src="./assets/velocis.svg" width="100%" alt="F1 Velocis — Projet à la une · Projet privé" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="./assets/velocis-logo.png" width="140" alt="Logo pixel art F1 Velocis" />
+    </td>
+    <td width="660">
+      <sub>PROJET À LA UNE</sub>
+      <h2>F1 Velocis</h2>
+      <p>Projet privé</p>
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <p align="center">
-  <a href="https://github.com/adrix0132/pocketmine_panel"><img src="./assets/pocketmine.svg" width="32%" alt="PocketMine Panel — Python" /></a>
-  <a href="https://github.com/adrix0132/mbot-control"><img src="./assets/mbot.svg" width="32%" alt="mBot Control — Web Bluetooth" /></a>
-  <a href="https://github.com/adrix0132/JoinMessageFR"><img src="./assets/joinmessage.svg" width="32%" alt="JoinMessage — PHP / PocketMine" /></a>
+  <a href="https://thedev.world/u/adrix0132">
+    <img src="https://thedev.world/og/adrix0132" width="100%" alt="Mes statistiques sur thedev.world" />
+  </a>
 </p>

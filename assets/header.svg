@@ -1,11 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380"><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111526"/><stop offset="1" stop-color="#090c14"/></linearGradient><linearGradient id="accent"><stop stop-color="#a89bff"/><stop offset="1" stop-color="#66dfeb"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern></defs>
-<rect width="1200" height="380" rx="24" fill="url(#bg)"/><rect width="1200" height="380" rx="24" fill="url(#grid)"/>
-<circle cx="970" cy="190" r="154" fill="none" stroke="#a89bff" stroke-opacity=".12"/><circle cx="970" cy="190" r="120" fill="none" stroke="#66dfeb" stroke-opacity=".15"/><ellipse cx="970" cy="190" rx="200" ry="62" transform="rotate(-35 970 190)" fill="none" stroke="url(#accent)" stroke-width="2"/>
-<circle cx="1096" cy="83" r="7" fill="#66dfeb"/><circle cx="810" cy="272" r="5" fill="#a89bff"/>
-<rect x="849" y="105" width="242" height="172" rx="18" fill="#101727" stroke="#35445e"/><path d="M849 144h242" stroke="#35445e"/>
-<g fill="#65738c"><circle cx="871" cy="125" r="4"/><circle cx="886" cy="125" r="4"/><circle cx="901" cy="125" r="4"/></g>
-<path d="m922 175-29 28 29 28m96-56 29 28-29 28m-38-69-22 82" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="64" y="75" width="36" height="4" rx="2" fill="url(#accent)"/>
-<text x="64" y="196" font-family="Segoe UI,Arial,sans-serif" font-size="92" font-weight="700" letter-spacing="-4" fill="#f4f6ff">adrix0132<tspan fill="#a89bff">.</tspan></text>
-<text x="68" y="250" font-family="Consolas,monospace" font-size="20" letter-spacing="5" fill="#9aa9c2">WEB / PYTHON / PHP</text>
-<path d="M64 316h1072" stroke="#263047"/><rect x="64" y="315" width="160" height="2" fill="url(#accent)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="adrix0132">
+  <rect x="1" y="1" width="1198" height="258" rx="16" fill="#181818" stroke="#303030"/>
+  <text x="60" y="163" font-family="Segoe UI,Arial,sans-serif" font-size="92" font-weight="700" letter-spacing="-4" fill="#eeece7">adrix0132.</text>
+  <path d="m1007 96-35 34 35 34m58-68 35 34-35 34" fill="none" stroke="#686868" stroke-width="5" stroke-linecap="square"/>
+</svg>
