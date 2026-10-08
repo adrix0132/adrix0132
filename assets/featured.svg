@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" role="img" aria-label="Projet à la une : F1 Velocis. Créateur du projet : adrix0132. Projet privé.">
+<rect width="800" height="260" rx="14" fill="#203e40"/>
+<path d="M0 28v204" stroke="#cb8564" stroke-width="9"/>
+<text x="38" y="49" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3" fill="#dbb692">PROJET À LA UNE</text>
+<text x="35" y="124" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2" fill="#fff5e6">F1 Velocis</text>
+<text x="39" y="166" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#e1e8de">Créateur du projet · adrix0132</text>
+<rect x="38" y="195" width="132" height="33" rx="6" fill="#dfc5a3"/>
+<text x="104" y="217" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" fill="#283f3c">Projet privé</text>
+</svg>

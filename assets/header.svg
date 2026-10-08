@@ -1,5 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="adrix0132">
-  <rect x="1" y="1" width="1198" height="258" rx="16" fill="#181818" stroke="#303030"/>
-  <text x="60" y="163" font-family="Segoe UI,Arial,sans-serif" font-size="92" font-weight="700" letter-spacing="-4" fill="#eeece7">adrix0132.</text>
-  <path d="m1007 96-35 34 35 34m58-68 35 34-35 34" fill="none" stroke="#686868" stroke-width="5" stroke-linecap="square"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="adrix0132 — Développeur et créateur">
+<style>
+@keyframes float {0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes cursor {0%,45%,100%{opacity:1}55%,90%{opacity:.25}}
+.mark{animation:float 6s ease-in-out infinite}.cursor{animation:cursor 3s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){.mark,.cursor{animation:none}}
+</style>
+<rect width="1200" height="300" rx="20" fill="#203e40"/>
+<path d="M790 0h390q20 0 20 20v260q0 20-20 20H790z" fill="#e2cbaa"/>
+<path d="M790 0v300" stroke="#f0dfc4" stroke-width="2"/>
+<text x="58" y="65" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4" fill="#c7d6cd">DÉVELOPPEUR · CRÉATEUR</text>
+<text x="53" y="181" font-family="Segoe UI,Arial,sans-serif" font-size="94" font-weight="700" letter-spacing="-4" fill="#f8f1e5">adrix0132<tspan fill="#d99b75">.</tspan></text>
+<rect class="cursor" x="60" y="225" width="74" height="6" rx="3" fill="#d99b75"/>
+<g class="mark">
+<rect x="870" y="64" width="222" height="172" rx="12" fill="#b7644d"/>
+<path d="M870 102h222" stroke="#e5b599" stroke-width="2"/>
+<g fill="#f8e5d4"><circle cx="890" cy="84" r="4"/><circle cx="905" cy="84" r="4"/><circle cx="920" cy="84" r="4"/></g>
+<path d="m935 134-27 29 27 29m94-58 27 29-27 29m-36-67-22 76" fill="none" stroke="#fff0dd" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</g></svg>
